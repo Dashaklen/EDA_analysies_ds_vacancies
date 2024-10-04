@@ -64,9 +64,10 @@
 
 ### ***Структура проекта***
 
-- [Project_2.ipunb](https://github.com/Dashaklen/Project_2_HH/blob/master/Project_2%20.ipynb): Jupyter ноутбук с анализом данных.
-- [reqirements.txt](https://github.com/Dashaklen/Project_2_HH/blob/master/requirements.txt): Зависимости
-- [README.md](https://github.com/Dashaklen/Project_2_HH/blob/master/README.md): Описание проекта.'
+- [Project_3_ds_vacansies_eda.ipynb](https://github.com/Dashaklen/EDA_analysies_ds_vacancies/blob/master/Project_3_ds_vacancies_eda.ipynb): Jupyter ноутбук с анализом данных.
+- [reqirements.txt](https://github.com/Dashaklen/EDA_analysies_ds_vacancies/blob/master/requirements.txt): Зависимости
+- [README.md](https://github.com/Dashaklen/EDA_analysies_ds_vacancies/blob/master/README.md): Описание проекта.'
+- [graphs](https://github.com/Dashaklen/EDA_analysies_ds_vacancies/tree/master/graphs): Папка с графиками
 
 :arrow_up:[к оглавлению](#оглавление)
 
@@ -165,7 +166,7 @@ import seaborn as sns
 ### Установка и использование
 
 1. Клонируйте репозиторий:
-   git clone [https://github.com/Dashaklen/Project_2_HH.git](https://github.com/Dashaklen/Project_2_HH)
+   git clone [https://github.com/Dashaklen/EDA_analysies_ds_vacancies.git](https://github.com/Dashaklen/EDA_analysies_ds_vacancies)
 
 3. Установить необходимые библиотеки:
    pip install -r requirements.txt
