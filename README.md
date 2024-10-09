@@ -166,7 +166,7 @@ import seaborn as sns
 ### Установка и использование
 
 1. Клонируйте репозиторий:
-   git clone [https://github.com/Dashaklen/EDA_analysies_ds_vacancies.git](https://github.com/Dashaklen/EDA_analysies_ds_vacancies)
+   git clone [https://github.com/Twi1ightFox/EDA_analysies_ds_vacancies.git](https://github.com/Twi1ightFox/EDA_analysies_ds_vacancies)
 
 3. Установить необходимые библиотеки:
    pip install -r requirements.txt
